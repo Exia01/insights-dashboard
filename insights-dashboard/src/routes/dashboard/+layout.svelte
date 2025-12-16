@@ -18,7 +18,7 @@
 </header>
 
 <main class="flex-1 bg-gray-50">
-    {@render children()}
+    {@render children?.()}
 </main>
 
 
